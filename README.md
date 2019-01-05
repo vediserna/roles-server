@@ -5,10 +5,12 @@ Spring Boot Server
 
 ## Project approach
 This project was done as a test for a job application.
-I got the project's description in an e-mail and took a few days thinking about how to approach it. My first choice was to create a Flask server(which I did) since I had been working a lot with Python for the past months. When I was about to start writing my the tests for the Flask server I decided to step out of the comfort zone and use Spring to create the API. I have a fair Java progamming experience but this is the first API I write in Java. The project description suggested I would use Spring Boot so I went ahead and did that.
+I got the project's description in an e-mail and took a few days thinking about how to approach it. My first choice was to create a Flask server(which I did) since I had been working a lot with Python for the past months. When I was about to start writing my the tests for the Flask server I decided to step out of the comfort zone and use Java instead to create the API. I have a fair Java progamming experience but this is the first API I write in Java. The project description suggested I would use Spring Boot so I went ahead and did that.
 Since I very little experience with the framework I designed the API using [swagger](http://editor.swagger.io/) and generated a spring Server from there. I have since then changed about 80% of what was generated.
-I usually layer my applications, i.e. use the 3 tier architecture. I think that helps me to write a cleaner code and more modular as well as that design makes it easier for me to refactor. I then also used a tiny bit of dependency injection to help me test the service layer.
-When it came to data I got confused. I ended up retrieving the data from the Heroku website and created a SQLite database which I populated with the Heroku data.
+
+#### Project Design
+I usually layer my applications and I did that for this project, i.e. use the 3 tier architecture. I think that helps me to write a cleaner code and more modular as well as that design makes it easier for me to refactor. I then also used a tiny bit of dependency injection to help me test the service layer.
+When it came to data I got confused on how to approach. I ended up retrieving the data from the Heroku website and created a SQLite database which I populated with the Heroku data.
 
 The program can be downloaded from [GitHub](https://github.com/vediserna/roles-server).
 
