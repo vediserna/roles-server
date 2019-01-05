@@ -13,8 +13,7 @@ When it came to data I got confused. I ended up retrieving the data from the Her
 The program can be downloaded from [GitHub](https://github.com/vediserna/roles-server).
 
 ## API documentation
-You can view the api documentation in swagger-ui by pointing to  
-`http://localhost:8080` after you have started the server. (`192.168.99.100:8080` if you are using Docker toolbox for windows)  
+You can view the api documentation in swagger-ui by pointing to `http://localhost:8080` after you have started the server. (`192.168.99.100:8080` if you are using Docker toolbox for windows)  
 
 ## How to run the program
 #### Locally:
