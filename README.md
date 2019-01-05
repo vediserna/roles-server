@@ -10,7 +10,7 @@ Since I very little experience with the framework I designed the API using [swag
 
 #### Project Design
 I usually layer my applications and I did that for this project, i.e. use the 3 tier architecture. I think that helps me to write a cleaner code and more modular as well as that design makes it easier for me to refactor. I then also used a tiny bit of dependency injection to help me test the service layer.
-When it came to data I got confused on how to approach. I ended up retrieving the data from the Heroku website and created a SQLite database which I populated with the Heroku data.
+When it came to data I got confused on how to approach. I ended up retrieving the data from the Heroku website and created a SQLite database which I populated with the Heroku data. The database contains 4 tables. Users(id, username name), Teams(id, name, lead), Roles(teamId, role) and Membership(memberId, teamId, role).
 
 The program can be downloaded from [GitHub](https://github.com/vediserna/roles-server).
 
