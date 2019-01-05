@@ -12,6 +12,14 @@ When it came to data I got confused. I ended up retrieving the data from the Her
 
 The program can be downloaded from [GitHub](https://github.com/vediserna/roles-server).
 
+#### Clone with SSH:
+1. `git clone git@github.com:vediserna/roles-server.git`
+2. `cd roles-server`
+
+#### Clone with HTTPS:
+1. `git clone https://github.com/vediserna/roles-server.git`
+2. `cd roles-server`
+
 ## API documentation
 You can view the api documentation in swagger-ui by pointing to `http://localhost:8080` after you have started the server. (`192.168.99.100:8080` if you are using Docker toolbox for windows)  
 
