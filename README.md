@@ -19,7 +19,7 @@ You can view the api documentation in swagger-ui by pointing to
 ## How to run the program
 #### Locally:
 You will need:
-* [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) You can run `java --version` to check your current version.
+* [Java 8 or higher](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) You can run `java --version` to check your current version.
 * An IDE (I used [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows) but other IDE's should be fine)
 
 After you have opened up the project you can either run it through your IDE or through command line
