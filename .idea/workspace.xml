@@ -1,130 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff5aa05-263e-4690-9c99-085eaf0468f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777956d3-e340-4bb9-84d2-032e730bb923.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777956d3-e340-4bb9-84d2-032e730bb923/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.swagger-codegen-ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.swagger-codegen/VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/RFC3339DateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/Swagger2SpringBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/AlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/ApiException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/TeamsApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/TeamsApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/UsersApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/api/UsersApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/configuration/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/configuration/JacksonConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/model/Membership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/model/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/model/TeamRolesDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/model/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/ITeamRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/IUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/TeamRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/TeamRepositoryStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/UserRepositoryStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/repository/sqliteDBGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/service/ITeamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/service/TeamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/swagger/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/reset_db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/teamsAndRoles.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/teamsAndRoles_copy.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/swagger/service/TeamServiceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/swagger/service/UserServiceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/RFC3339DateFormat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/Swagger2SpringBoot$ExitException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/Swagger2SpringBoot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/AlreadyExistsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/ApiException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/ApiOriginFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/ApiResponseMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/NotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/TeamsApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/TeamsApiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/UsersApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/api/UsersApiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$FromDecimalArguments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer$FromIntegerArguments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/CustomInstantDeserializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/HomeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/JacksonConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/configuration/SwaggerDocumentationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/model/Membership.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/model/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/model/TeamRolesDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/model/UserRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/DataBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/ITeamRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/IUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/TeamRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/TeamRepositoryStub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/UserRepositoryStub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/repository/sqliteDBGateway.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/service/ITeamService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/service/TeamService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/swagger/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reset_db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/teamsAndRoles.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/teamsAndRoles_copy.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/docker-roles-server-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/docker-roles-server-1.0.0.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="eff5aa05-263e-4690-9c99-085eaf0468f7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -141,6 +18,9 @@
     <SUITE FILE_PATH="coverage/spring_server$UserServiceTests__1_.ic" NAME="UserServiceTests (1) Coverage Results" MODIFIED="1546656723945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>io.swagger.service.*</FILTER>
     </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -230,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="363">
-                <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+              <first_editor relative-caret-position="179">
+                <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -633,65 +513,6 @@
               <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-server" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -709,7 +530,7 @@
     <property name="SearchEverywhereHistoryKey" value=" {&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546656801040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546656822740" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/io/swagger/service/io/swagger/service" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rolesserver/src/main/java/tempotest/roles/Repositories/DB.java" />
@@ -908,14 +729,11 @@
       <option name="presentableId" value="Default" />
       <updated>1545090279664</updated>
       <workItem from="1545090281261" duration="15431000" />
-      <workItem from="1546378882799" duration="52035000" />
+      <workItem from="1546378882799" duration="52387000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserServiceTests - 2019.01.05 at 00h 25m 35s.xml">
-      <configuration name="UserServiceTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserServiceTests - 2019.01.05 at 01h 54m 44s.xml">
       <configuration name="UserServiceTests" configurationId="JUnit" />
     </history-entry>
@@ -943,9 +761,12 @@
     <history-entry file="TeamServiceTests_(1) - 2019.01.05 at 02h 51m 29s.xml">
       <configuration name="TeamServiceTests (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserServiceTests_(1) - 2019.01.05 at 02h 52m 15s.xml">
+      <configuration name="UserServiceTests (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67466000" />
+    <option name="totallyTimeSpent" value="67818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -956,10 +777,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49900597" visible="true" weight="0.18120806" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49900597" visible="true" weight="0.18120806" />
       <window_info id="Structure" order="7" sideWeight="0.500994" side_tool="true" weight="0.17516778" />
       <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.5106383" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.5106383" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50067115" side_tool="true" weight="0.5929078" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32765958" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
@@ -968,13 +789,13 @@
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932885" weight="0.2567376" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49932885" visible="true" weight="0.2496454" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49932885" weight="0.2496454" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32765958" />
-      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -1496,8 +1317,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="363">
-            <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <first_editor relative-caret-position="179">
+            <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
