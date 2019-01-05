@@ -12,6 +12,10 @@ When it came to data I got confused. I ended up retrieving the data from the Her
 
 The program can be downloaded from [GitHub](https://github.com/vediserna/roles-server).
 
+## API documentation
+You can view the api documentation in swagger-ui by pointing to  
+`http://localhost:8080` after you have started the server. (`192.168.99.100:8080` if you are using Docker toolbox for windows)  
+
 ## How to run the program
 #### Locally:
 You will need:
@@ -39,10 +43,6 @@ Then run:
 `docker run -p 8080:8080 docker-roles-server`
 
 The server should now be running on your computer. If you are using Docker toolbox for windows, the server can most likely be accessed on `192.168.99.100:8080`. If you are not using the docker toolbox for windows you should access the server through `localhost:8080`.
-
-## API documentation
-You can view the api documentation in swagger-ui by pointing to  
-`http://localhost:8080` after you have started the server. (`192.168.99.100:8080` if you are using Docker toolbox for windows)  
 
 ## Tests
 To run unit tests in command line;
